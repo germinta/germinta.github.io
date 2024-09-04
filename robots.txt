@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://germinta.github.io/sitemap/sitemap.txt
